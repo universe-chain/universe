@@ -1,4 +1,4 @@
-# UNIVERSE Blockchain White Paper
+# UNIVERSE Blockchain
 
 ## Table of Contents
 
